@@ -1,4 +1,4 @@
-# 最好不要整个脚本一起执行
+# 最好不要整个脚本一起执行, proxy_ip需要修改为自己的代理IP
 export proxy_ip=10.11.57.211
 export http_proxy=http://$proxy_ip:7890
 export https_proxy=http://$proxy_ip:7890
